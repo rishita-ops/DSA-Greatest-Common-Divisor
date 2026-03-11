@@ -1,4 +1,3 @@
-//Greates Common Divisor
 #include <bits/stdc++.h>
 using namespace std;
 int main()
